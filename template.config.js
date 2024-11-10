@@ -1,6 +1,8 @@
 module.exports = {
     placeholderName: 'MyApp',
-    
+
+    titlePlaceholder: 'Hello App Display Name',
+
     name: 'react-navigation-template',
   
     description: 'A template with React Navigation pre-configured',
